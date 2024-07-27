@@ -3,6 +3,6 @@
     "development"
   ],
   "hints": {
-    "disown-opener": "off"
+    
   }
 }
